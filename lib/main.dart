@@ -102,7 +102,7 @@ class MyApp extends State<ButtonDemo> {
                         elevation: 0.0,
                         splashColor: Colors.white,
                         onPressed: () {
-                          showCupertinoDalog();
+                          showCupertinoDialog();
                         },
                       ),
                     ],
