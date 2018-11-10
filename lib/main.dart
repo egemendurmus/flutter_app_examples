@@ -162,7 +162,7 @@ class MyApp extends State<ButtonDemo> {
     );
   }
 
-  void showCupertinoDalog() {
+  void showCupertinoDialog() {
     showDialog(
         context: context,
         // return object of type AlertDialog
